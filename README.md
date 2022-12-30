@@ -1,0 +1,1 @@
+Simple eCommerce Console App built with javaScript
